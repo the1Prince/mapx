@@ -1,3 +1,7 @@
+#About the project
+This project is a react visualization of health facilities distribution across Ghana. The data for this project was obtained from the Ghana open data project.
+![mapx](mapx.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
